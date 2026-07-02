@@ -1,0 +1,53 @@
+{
+  "produtos": [
+    {
+      "id": "1",
+      "nome": "Notebook Dell",
+      "descricao": "Notebook Dell Inspiron 15, processador Intel Core i5, 8GB RAM, 256GB SSD",
+      "preco": 2499.99,
+      "imagem": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=500&h=500&fit=crop",
+      "estoque": 5
+    },
+    {
+      "id": "2",
+      "nome": "Teclado Mecânico",
+      "descricao": "Teclado mecânico RGB com switches blue, layout ABNT2",
+      "preco": 349.99,
+      "imagem": "https://cdn.shopify.com/s/files/1/0617/1534/9670/files/k3d1es1-1681355139206.jpg?v=1683774321",
+      "estoque": 12
+    },
+    {
+      "id": "3",
+      "nome": "Mouse Gamer",
+      "descricao": "Mouse gamer com sensor 3200 DPI, 6 botões programáveis",
+      "preco": 129.99,
+      "imagem": "https://images.unsplash.com/photo-1527814050087-3793815479db?w=500&h=500&fit=crop",
+      "estoque": 8
+    },
+    {
+      "id": "4",
+      "nome": "Monitor 27\"",
+      "descricao": "Monitor 27 polegadas Full HD 144Hz, painel IPS",
+      "preco": 899.99,
+      "imagem": "https://a-static.mlcdn.com.br/470x352/monitor-27-polegadas-1920x1080-led-mbrx27bk-brx/olistsp/osprkq0sdejzbtdk/3842b18de31a4ceab44e6df85be33a88.jpeg",
+      "estoque": 3
+    },
+    {
+      "id": "5",
+      "nome": "Headset Gamer",
+      "descricao": "Headset gamer com som surround 7.1, microfone destacável",
+      "preco": 249.99,
+      "imagem": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&h=500&fit=crop",
+      "estoque": 10
+    },
+    {
+      "id": "6",
+      "nome": "Webcam 1080p",
+      "descricao": "Webcam Full HD com autofoco e microfone integrado",
+      "preco": 179.99,
+      "imagem": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=500&h=500&fit=crop",
+      "estoque": 0
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
